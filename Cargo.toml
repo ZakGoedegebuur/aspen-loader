@@ -3,7 +3,9 @@ name = "aspen-loader"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-description = "https://docs.rs/aspen-loader"
+description = "Simple multi-threaded asset loader for the aspen engine"
+documentation = "https://docs.rs/aspen-loader"
+repository = "https://github.com/ZakGoedegebuur/aspen-loader"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
